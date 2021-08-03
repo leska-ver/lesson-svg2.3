@@ -1,3 +1,3 @@
-Online site verification
+
 https://codesandbox.io/
-- sandbox click the button - > Create Sandbox -> Import Project -> link from github. Will show the site
+- sandbox  - > Create Sandbox -> Import Project -> link from github
