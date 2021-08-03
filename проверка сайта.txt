@@ -1,0 +1,3 @@
+Онлайн проверка сайта
+https://codesandbox.io/
+- sandbox - > жмём кнопку Create Sandbox -> Import Project -> ссылка с гитхаба. Покажет сайт
